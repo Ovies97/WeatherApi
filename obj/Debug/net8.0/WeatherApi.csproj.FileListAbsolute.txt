@@ -35,3 +35,4 @@ C:\Users\Ovayo\WeatherApi\obj\Debug\net8.0\refint\WeatherApi.dll
 C:\Users\Ovayo\WeatherApi\obj\Debug\net8.0\WeatherApi.pdb
 C:\Users\Ovayo\WeatherApi\obj\Debug\net8.0\WeatherApi.genruntimeconfig.cache
 C:\Users\Ovayo\WeatherApi\obj\Debug\net8.0\ref\WeatherApi.dll
+C:\Users\Ovayo\WeatherApi\obj\Debug\net8.0\WeatherApi.sourcelink.json
